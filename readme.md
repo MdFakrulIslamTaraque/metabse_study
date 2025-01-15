@@ -23,7 +23,7 @@ docker images
 ```
 docker run -d -p 3000:3000 --name metabase metabase/metabase
 ```
-- Hit the `http://localhost:3000/` to see the metabase UI and setip your metabsae account.
+- Hit the `http://localhost:3000/` to see the metabase UI and setup your metabsae account.
 
 - Optional: to view the logs as your Open Source Metabase initializes, run:
 
